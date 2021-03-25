@@ -3,7 +3,7 @@
  - TODO : Make the readme
  
 ```
-npm init
+npm install
 ```
 ```
 npm start
